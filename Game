@@ -1,0 +1,5 @@
+x = raw_input("Please Type a Number Less Than 5:")
+if x < 5:
+    print Great Job!
+else:
+    print Try Again!
